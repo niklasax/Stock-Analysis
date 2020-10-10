@@ -6,9 +6,9 @@
 ## Results
 (Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.)
 
-![alt text]()
+![alt text](https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
-![alt text]()
+![alt text](https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary
 (What are the advantages or disadvantages of refactoring code?
