@@ -11,6 +11,8 @@ In 2017, the handful of Green Stocks selected for this analysis performance very
 
 ![alt text](https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
+<img src="https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2017.png" width="600" height="200" />
+
 ![alt text](https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Summary
