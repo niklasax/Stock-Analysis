@@ -20,7 +20,7 @@ In 2017, the handful of Green Stocks selected for this analysis performed very w
 
 **Run time analysis**
 
-Another Analysis performed was the time it took to run the script iteself. We compared the initial code's time performance against our later 'refactored' code's time performance. In terms of performance comparison, there was little to no difference in performance between the original and refactored code. Both scripts ran in the range of 2.8 to 2.9 seconds.
+Another Analysis performed was the time it took to run the script iteself. We compared the initial code's time performance against our later 'refactored' code's time performance. In comparison, refactoring the code reduced the time to run by about 75%. the initial code took around 2.85 seconds to run while the rafactored code took only around .7 seconds to run.
 
 Refactored
 
@@ -39,4 +39,4 @@ Not Refactored
 
 Manageability- Code that has been refactored is much easier to troubleshoot. With good code that is concise and well noted, any potential bugs are much easier to fix. For example, our refactored code was well documented and notated so if another person were to go into the code to try and debug, they would what each grouping of code's task was.
 
-Scaleability- Code that has been refactored is more efficient. Cutting down on unnecessary or redundant lines of code and can run the same tasks with less resources which ,in the end, will allow you to process more data. In the stocks example, we did not see much in improvement in the runtime between initial and refactored code. This could be an indication of either an already efficient initial script, or an indication of further potential improvement needed in the refactored version.
+Scaleability- Code that has been refactored is more efficient. Cutting down on unnecessary or redundant lines of code and can run the same tasks with less resources which ,in the end, will allow you to process more data. In the stocks example, we saw a 75% reduction in speed, reducing the time to run from around 2.85 seconds to .7 seconds. This may not seem like a lot of savings in terms of time, but the reduction becomes more meangingful when we have more data we have to process. For example, if our initial analysis took an hour to run, refactoring would have cut down the time to run to 15 minutes.
