@@ -1,13 +1,13 @@
 # Stock-Analysis
 
 ## Overview of Project
-The purpose of this Analysis was to gain functional understanding of VBA. In this particular example, we used vba to help Steve, a recent Finance Graduate, help his parents evaluate the performance of Green Energy stock data from 2017 and 2018.
+The purpose of this Analysis was to gain functional understanding of VBA. In this particular example we used VBA to help Steve, a recent Finance Graduate, assist his parents evaluate the performance of Green Energy stock data from 2017 and 2018.
 
 ## Results
 
 **Stock Performance 2017 - 2018**
 
-In 2017, the handful of Green Stocks selected for this analysis performance very well. Out of 12 stocks, 11 had positive returns with half of the stocks having 50% returns or higher. 2018 told a very different story with every stock except 2 showing negative returns. The two positively returning stocks in 2018 also showed positive returns in 2017, these two stocks were 'RUN' and 'ENPH'. Out of those two positively returning stocks, ENPH was the better performer with 129.5% returns in 2017 and 81.9% returns in 2018. Steve's parent's initial bet was on 'DQ', but Steve would be wise to advise against that stock due to the -62.6% returns performance in 2018. If I had to suggest a stock to Steve's parents over 'DQ', it would be ENPH.
+In 2017, the handful of Green Stocks selected for this analysis performed very well. Out of 12 stocks, 11 had positive returns with half of the stocks having 50% returns or higher. 2018 told a very different story with every stock except 2 showing negative returns. The two positively returning stocks in 2018 also showed positive returns in 2017, these two stocks were 'RUN' and 'ENPH'. Out of those two positively returning stocks, ENPH was the better performer with 129.5% returns in 2017 and 81.9% returns in 2018. Steve's parent's initial bet was on 'DQ', but Steve would be wise to advise against that stock due to the -62.6% returns performance in 2018. If I had to suggest a stock to Steve's parents over 'DQ', it would be ENPH.
 
 
 2017 Performance
