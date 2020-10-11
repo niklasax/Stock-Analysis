@@ -31,5 +31,3 @@ Another Analysis performed was the time it took to run the script iteself. We co
 Manageability- Code that has been refactored is much easier to troubleshoot. With good code that is concise and well noted, any potential bugs are much easier to fix. For example, our refactored code was well documented and notated so if another person were to go into the code to try and debug, they would what each grouping of code's task was.
 
 Scaleability- Code that has been refactored is more efficient. Cutting down on unnecessary or redundant lines of code and can run the same tasks with less resources which ,in the end, will allow you to process more data. In the stocks example, we did not see much in improvement in the runtime between initial and refactored code. This could be an indication of either an already efficient initial script, or an indication of further potential improvement needed in the refactored version.
-
-How do these pros and cons apply to refactoring the original VBA script?)
