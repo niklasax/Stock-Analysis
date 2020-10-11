@@ -12,6 +12,7 @@ In 2017, the handful of Green Stocks selected for this analysis performance very
 <img src="https://github.com/niklasax/stock-analysis/blob/main/Stock%20Performance%202018.png" width="200" height="200" />
 
 **Run time analysis**
+
 Another Analysis performed was the time it took to run the script iteself. We compared the initial code's time performance against our later 'refactored' code's time performance. In terms of performance comparison, there was little to no difference in performance between the original and refactored code. Both scripts ran in the range of 2.8 to 2.9 seconds.
 
 Refactored
