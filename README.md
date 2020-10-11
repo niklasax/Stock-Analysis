@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview of Project
-The purpose of this Analysis was to gain a functional understanding of VBA. In this particular example we used VBA to assist Steve, a recent Finance Graduate, evaluate the performance of Green Energy stock data from 2017 and 2018 for his parents.
+The purpose of this Analysis was to gain a functional understanding of VBA. In this particular example we used VBA to assist Steve, a recent Finance Graduate, evaluate the performance of Green Energy stock data from 2017 and 2018 for his parents. We also evaluated the script running the analysis to see the effects, if any, of refactoring our code.
 
 ## Results
 
