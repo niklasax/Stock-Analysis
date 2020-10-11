@@ -13,10 +13,12 @@ In 2017, the handful of Green Stocks selected for this analysis performance very
 
 
 Refactored
+
 <img src="https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2017.png" width="400" height="130" />
 <img src="https://github.com/niklasax/stock-analysis/blob/main/VBA_Challenge_2018.png" width="400" height="130" />
 
 Not Refactored
+
 <img src="https://github.com/niklasax/stock-analysis/blob/main/2017%20(not%20refactored).png" width="400" height="130" />
 <img src="https://github.com/niklasax/stock-analysis/blob/main/2018%20(not%20refactored).png" width="400" height="130" />
 
